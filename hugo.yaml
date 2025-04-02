@@ -51,7 +51,5 @@ markup:
 
 module:
   mounts:
-  - source: assets
-    target: assets
   - source: static
-    target: assets
+    target: static/atlesdevidessecretes
