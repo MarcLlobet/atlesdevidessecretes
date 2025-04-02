@@ -1,4 +1,4 @@
-baseURL: https://marcllobet.github.io/atlesdevidessecretes/
+baseURL: https://marcllobet.github.io/atlesdevidessecretes
 languageCode: ca
 title: Atles de vides secretes
 theme: PaperMod
@@ -42,3 +42,16 @@ menu:
 caches:
   images:
     dir: :cacheDir/images
+
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        enableDefault: true
+
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - source: static
+    target: assets
