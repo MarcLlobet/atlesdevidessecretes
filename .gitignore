@@ -1,1 +1,6 @@
 import/
+public/
+themes/
+
+.hugo_build.cache
+.hugo_build.lock
