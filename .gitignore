@@ -1,6 +1,7 @@
 import/
 public/
 themes/
+resources/
 
 .hugo_build.cache
 .hugo_build.lock

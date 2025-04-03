@@ -42,14 +42,3 @@ menu:
 caches:
   images:
     dir: :cacheDir/images
-
-markup:
-  goldmark:
-    renderHooks:
-      image:
-        enableDefault: true
-
-module:
-  mounts:
-  - source: static
-    target: static/atlesdevidessecretes
