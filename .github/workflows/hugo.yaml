@@ -68,8 +68,8 @@ jobs:
           git submodule add \
             -f \
             --depth=1 \
-            https://github.com/adityatelange/hugo-PaperMod.git \
-            themes/PaperMod
+            https://github.com/luizdepra/hugo-coder.git \
+            themes/hugo-coder
 
       - name: Build with Hugo
         run: |
