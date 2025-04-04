@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241024_193421
-  image: /wp-content/uploads/2024/11/img_20241024_193421.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241024_193421.jpg
 date: "2024-10-25T00:35:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/25/protestes-de-cali/
 title: Protestes de Cali

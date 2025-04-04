@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1727457114114075-0
-  image: /wp-content/uploads/2024/09/1727457114114075-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/09/1727457114114075-0.jpg
 date: "2024-09-24T20:35:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/24/cami-que-gira/
 title: Camí que gira

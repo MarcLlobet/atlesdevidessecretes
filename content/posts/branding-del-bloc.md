@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000050670"
-  image: /wp-content/uploads/2024/11/1000050670.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1000050670.jpg
 date: "2024-10-30T01:09:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/30/branding-del-bloc/
 title: Branding del bloc

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241212005514
-  image: /wp-content/uploads/2024/12/img20241212005514.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img20241212005514.jpg
 date: "2024-12-11T21:20:10+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=343
 title: Theista

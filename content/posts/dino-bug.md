@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: Screenshot_2025-02-21-19-54-22-19_40deb401b9ffe8e1df2f1cc5ba480b12
-  image: /wp-content/uploads/2025/02/screenshot_2025-02-21-19-54-22-19_40deb401b9ffe8e1df2f1cc5ba480b12.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/02/screenshot_2025-02-21-19-54-22-19_40deb401b9ffe8e1df2f1cc5ba480b12.jpg
 date: "2025-02-22T14:30:29+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=528
 title: Dino bug
@@ -13,7 +13,7 @@ url: /2025/02/22/dino-bug/
 ---
 El joc del dinosaure que salta cactus.
 
-![](/wp-content/uploads/2025/02/screenshot_2025-02-21-19-54-22-19_40deb401b9ffe8e1df2f1cc5ba480b121707999265905672874.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/screenshot_2025-02-21-19-54-22-19_40deb401b9ffe8e1df2f1cc5ba480b121707999265905672874.jpg?w=1024)
 
 Tots tenim un tiranosaure rex quan no tenim connexió. Em refereixo al navegador, no al monstre interior.
 

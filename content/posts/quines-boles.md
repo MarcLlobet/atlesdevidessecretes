@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20250111_153754
-  image: /wp-content/uploads/2025/01/img_20250111_153754.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img_20250111_153754.jpg
 date: "2025-01-13T00:48:18+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2025/01/12/quines-boles/
 title: Quines boles
@@ -23,4 +23,4 @@ M'agrada tant que l'endemà i torno, però aquesta vegada aposto per un gelat 10
 
 Li foto totes les fruites, fetes gelat, que no conec. Poso petites quantitats per provar-les totes. Riuen de la meva fórmula, però és efectiva: Taperebá, castanha do brasil, buriti, açaí i tucumã. Tot amb topping de chantilly i ametlla.
 
-![](/wp-content/uploads/2024/11/img20241015091323.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img20241015091323.jpg?w=1024)

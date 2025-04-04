@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241107_205048
-  image: /wp-content/uploads/2024/11/img_20241107_205048.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241107_205048.jpg
 date: "2024-11-08T02:02:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/08/pili-666/
 title: Pili 666

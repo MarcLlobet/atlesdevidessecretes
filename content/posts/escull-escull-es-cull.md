@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250220174403
-  image: /wp-content/uploads/2025/02/img20250220174403.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/02/img20250220174403.jpg
 date: "2025-02-22T14:15:55+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=519
 title: Escull escull, es cull?
@@ -21,11 +21,11 @@ Cal dir també que pot ser perillós pujar a les pedres. Les onades et poden emp
 
 No només això, hi ha platges increïbles. Diferents tipus de platja en una mateixa ciutat, fent que sigui un lloc especial.
 
-![](/wp-content/uploads/2025/02/img202502201704342190138197072967407.jpg?w=1024)Dunes desèrtiques arriben a la Praia de Caperibú
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img202502201704342190138197072967407.jpg?w=1024)Dunes desèrtiques arriben a la Praia de Caperibú
 
 He estat a algunes de les seves platges, unes amb dunes fins al mar. L'altre amb un doble escull, fent piscina per nens petits, piscina i mar.
 
-![](/wp-content/uploads/2025/02/10000651031034745985475150782.jpg?w=1024)Doble escull a la Praia del Medio
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/10000651031034745985475150782.jpg?w=1024)Doble escull a la Praia del Medio
 
 Al capvespre faig una capbussada. Una capbussada agressiva. Mai havia vist onades tant altes. Ni com després de trencar-se, t'estiren amb tanta força. M'enfronto a onades que fan la meva altura.
 

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "10000483524598207110956832312"
-  image: /wp-content/uploads/2024/10/10000483524598207110956832312.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/10000483524598207110956832312.jpg
 date: "2024-10-11T21:55:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/11/planetes-diferents/
 title: Planetes diferents
@@ -27,4 +27,4 @@ La Terra es mou ràpid i es fa complicat anar assenyalant i trobant el planeta a
 
 Acosto el mòbil i faig una foto que es veu força pitjor que a simple vista, però aquí està:
 
-![](/wp-content/uploads/2024/10/10000483524598207110956832312.jpg)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/10000483524598207110956832312.jpg)

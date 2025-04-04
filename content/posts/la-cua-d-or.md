@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241122_041313
-  image: /wp-content/uploads/2024/11/img_20241122_041313.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241122_041313.jpg
 date: "2024-11-22T07:09:21+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=315
 title: La cua d'or

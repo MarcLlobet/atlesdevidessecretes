@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241109141832
-  image: /wp-content/uploads/2024/11/img20241109141832.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241109141832.jpg
 date: "2024-11-09T23:09:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/09/apocalipsi-segons-marc/
 title: Apocalipsi, segons Marc

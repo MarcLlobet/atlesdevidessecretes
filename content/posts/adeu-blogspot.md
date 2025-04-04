@@ -4,14 +4,14 @@ category:
   - uncategorized
 cover:
   alt: img202411121303285416878469501988627
-  image: /wp-content/uploads/2024/11/img202411121303285416878469501988627.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img202411121303285416878469501988627.jpg
 date: "2024-11-12T18:03:46+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=177
 title: Adéu blogspot
 url: /2024/11/12/adeu-blogspot/
 
 ---
-![](/wp-content/uploads/2024/11/img202411121303285416878469501988627.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img202411121303285416878469501988627.jpg?w=1024)
 
 He aprofitat el temps que he tingut per trobar la millor manera d'arreglar la navegació i paginació del bloc.
 

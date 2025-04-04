@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000052696"
-  image: /wp-content/uploads/2024/11/1000052696.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1000052696.jpg
 date: "2024-11-13T15:38:17+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=284
 title: Adéu viajero
@@ -23,6 +23,6 @@ I mentre penso què faig aquí, la frase d'un paper que el meu amic Alejandro em
 
 Va aixecar-se del seient, acostar-se a la porta, arrancar el paper de la llibreta i el va tirar en milèssimes de segon. Com si el fet d'entregar-me'l, fós qüestió de vida o mort:
 
-![](/wp-content/uploads/2024/11/img202411061912246259418927718417683.jpg?w=461)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img202411061912246259418927718417683.jpg?w=461)
 
 " _La adversidad sacará talentos que la prosperidad mantendria dormidos._"

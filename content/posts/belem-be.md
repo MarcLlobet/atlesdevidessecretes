@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250201150026
-  image: /wp-content/uploads/2025/02/img20250201150026.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/02/img20250201150026.jpg
 date: "2025-02-03T13:27:31+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2025/02/03/belem-be/
 title: Belem, bé
@@ -21,13 +21,13 @@ En una d'aquestes pluges, cau un xàfec fort, mentre estava al lloc més xulo de
 
 Sigui com sigui, la pluja ens va afectar a tots els éssers animals, nosaltres i ells.
 
-![](/wp-content/uploads/2025/02/img202502011458083310420935691962510.jpg?w=1024)Garses sota la pluja
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img202502011458083310420935691962510.jpg?w=1024)Garses sota la pluja
 
 Per sort les garses tenen plomes _goretex_, així que porten l'impermeable posat. La seva técnica infalible per no agafar fred és encongir el seu llarguíssim coll. La garsa no és tonta, i sap de sobres que no hi ha buffs tant llargs i prims al mercat. Ni un mitjó li quedaria bé, pobre.
 
 El seu primíssim caparró, que gairebé no veus si te la trobes de cara, junt al coll llarg i prim, el qual s'ennuagaria si s'empassés una avellana, fan que la garsa utilitzi el seu bec com una arma que surt disparada quan veu bitxets, cuquets, i altres insectes fastigosos.
 
-![](/wp-content/uploads/2025/02/img202502011437478973963661956761849.jpg?w=1024)Garsa marcle
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img202502011437478973963661956761849.jpg?w=1024)Garsa marcle
 
 Els peixos que no caça la garsa, són els que trobem al mercat de Belém, osigui tots. Sobretot els peixos de riu, en la seva amplíssima varietat.
 
@@ -39,11 +39,11 @@ En general, veig que hi ha dos productes que són estrella i no poden faltar. La
 
 La tapioca, o farina de yuca, s'utilitza per crear moltíssims subproductes. Es troba en gelatines, en masses semblants al pa, en una espècie de crispetes, en galetes, etc.
 
-![](/wp-content/uploads/2025/02/img202502011209094295266023089487832.jpg?w=768)Roscó de tapioca
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img202502011209094295266023089487832.jpg?w=768)Roscó de tapioca
 
 El jambú, una planta molt estimada per la gent, provoca un efecte estimulant. Com si fós jengibre amb bombolletes d'aigua amb gas. Es fa de tot amb això, xocolata, oli, conserva, picant, menjars típics, etc.
 
-![](/wp-content/uploads/2025/02/img202502011353222715833260454171372.jpg?w=768)Jambú
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img202502011353222715833260454171372.jpg?w=768)Jambú
 
 A part, extraoficialment, he fet dues paradetes a cosetes que hi ha Belém que m'agraden.
 

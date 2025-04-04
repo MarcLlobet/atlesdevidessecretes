@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241102_164123
-  image: /wp-content/uploads/2024/11/img_20241102_164123.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241102_164123.jpg
 date: "2024-11-03T00:42:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/03/alenjandro-caporicci/
 title: Alenjandro Caporicci
@@ -17,7 +17,7 @@ L' Alejandro i jo som els voluntaris de l'hostal el viajero i com a tal, compart
 
 El seu tarannà és seré, despert i tranquil. Un noi d'argentina, observador, de 34 anys que li agrada fer pulseres, crear formes amb globus allargats, fer malabars amb pilotes i que li fascinaria perdre la poca por que té per fer de pallasso.
 
-![](/wp-content/uploads/2024/11/image.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/image.jpg?w=1024)
 
 Hem compartit part del viatge en temps diferents. Ha estat a Colòmbia, i fins i tot ha passat per Cali en la mateixa finestra de temps en el que vaig ser-hi.
 

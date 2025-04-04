@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241221065116
-  image: /wp-content/uploads/2025/01/img20241221065116.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img20241221065116.jpg
 date: "2025-01-01T18:05:03+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=399
 title: Medalla d'argent

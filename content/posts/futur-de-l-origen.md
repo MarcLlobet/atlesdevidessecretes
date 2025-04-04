@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250122224423
-  image: /wp-content/uploads/2025/01/img20250122224423.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img20250122224423.jpg
 date: "2025-01-23T23:01:28+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=444
 title: Futur de l'orígen
@@ -23,7 +23,7 @@ El projecte em resulta interessant, i demano a alguns protagonistes que em facin
 
 Me n'adono que la majoria són dones. Hi ha pocs homes, però algun es suma als retrats. Després d'un, demano que vingui el següent, com si fós la cua per demanar regals als reis. Hi ha cert entusiasme i m'expliquen la història de cada parada, junt a les ganes de ser part del futur mercat.
 
-![](/wp-content/uploads/2025/01/img202501222236115388815327578735813.jpg?w=1024)Diana![](/wp-content/uploads/2025/01/img20250122223515910893095902067320.jpg?w=768)Cacic José![](/wp-content/uploads/2025/01/img202501222234286483815672533530478.jpg?w=1024)Leste![](/wp-content/uploads/2025/01/img202501222234155237814448905685180.jpg?w=1024)Ceisa![](/wp-content/uploads/2025/01/img202501222233567145773289237604068.jpg?w=1024)Naza Nilda![](/wp-content/uploads/2025/01/img202501222233022534249133806150514.jpg?w=1024)Anaye![](/wp-content/uploads/2025/01/img202501222232476917250401544647265.jpg?w=1024)Juliana![](/wp-content/uploads/2025/01/img202501222232164308529450429964293.jpg?w=1024)Ana Morales
+![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501222236115388815327578735813.jpg?w=1024)Diana![](/atlesdevidessecretes/wp-content/uploads/2025/01/img20250122223515910893095902067320.jpg?w=768)Cacic José![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501222234286483815672533530478.jpg?w=1024)Leste![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501222234155237814448905685180.jpg?w=1024)Ceisa![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501222233567145773289237604068.jpg?w=1024)Naza Nilda![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501222233022534249133806150514.jpg?w=1024)Anaye![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501222232476917250401544647265.jpg?w=1024)Juliana![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501222232164308529450429964293.jpg?w=1024)Ana Morales
 
 - La Diana prepara menjars amb la seva filla Denysse.
 - El cacic ven artilugis de la seva comunitat i tatua.

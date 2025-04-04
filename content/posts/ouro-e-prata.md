@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250129034355
-  image: /wp-content/uploads/2025/01/img20250129034355.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img20250129034355.jpg
 date: "2025-01-29T22:01:14+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=454
 title: Ouro e prata
@@ -25,7 +25,7 @@ Per temes pràctics i de qualitat de l'història, assumirem que va ser el primer
 
 El petit golfo, resulta que donava menjar, i és clar, quan es la teva única opció, perquè estàs atrapat en aquella mena llauna d'escopinyes, no tens cap altre remei que fer cua com en un menjador escolar.
 
-![](/wp-content/uploads/2025/01/img202501221729068119866291293738973.jpg?w=1024)Passatgers amb hamaques
+![](/atlesdevidessecretes/wp-content/uploads/2025/01/img202501221729068119866291293738973.jpg?w=1024)Passatgers amb hamaques
 
 Des del primer pis dels passatgers, el menjar se'ns entregava per una comporta, per on només hi cabia una safata. Amb curiositat, ficava el cap per la comporta per veure què hi havia, és quan veia una comporta cap a les sales inferiors.
 
@@ -51,4 +51,4 @@ No havia d'esperar res.
 
 El vaixell era millor, malgrat tot.
 
-![](/wp-content/uploads/2025/01/img20250129034330235080868377013363.jpg?w=1024)Els valents que han atravessat les selves durant anys
+![](/atlesdevidessecretes/wp-content/uploads/2025/01/img20250129034330235080868377013363.jpg?w=1024)Els valents que han atravessat les selves durant anys

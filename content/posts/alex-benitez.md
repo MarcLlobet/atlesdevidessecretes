@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241106_081251
-  image: /wp-content/uploads/2024/11/img_20241106_081251.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241106_081251.jpg
 date: "2024-11-06T13:15:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/06/alex-benitez/
 title: Alex Benítez

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241115_182446
-  image: /wp-content/uploads/2024/11/img_20241115_182446.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241115_182446.jpg
 date: "2024-11-15T23:25:41+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=283
 title: Interés del crèdit
@@ -83,7 +83,7 @@ Passo per la paradeta per assegurar-me que era ella, i que ara ja no hi era. De 
 
 Efectivament, les seves filles atenen la parada, els hi parlo del que ha passat i els hi pregunto si dec el caramel. Però sembla que no. Em conviden a un altre caramel i els hi emfatitzo el que crec que ha sigut una gran casualitat.
 
-![](/wp-content/uploads/2024/11/img_20241115_1824461691604547756121535.jpg?w=1024)Mayer, la filla de l'Esperança, a la botiga
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img_20241115_1824461691604547756121535.jpg?w=1024)Mayer, la filla de l'Esperança, a la botiga
 
 Agafo l'autobús de tornada. I tinc la oportunitat de pagar el trajecte d'anada i tornada. Casualment, l'autobús era el mateix que el que havia agafat a l'anada. I jo mateix m'ofereixo a tornar el que debia, i no m'havia demanat.
 

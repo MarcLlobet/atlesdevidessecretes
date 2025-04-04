@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "10000475714120980386525938169"
-  image: /wp-content/uploads/2024/10/10000475714120980386525938169.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/10000475714120980386525938169.jpg
 date: "2024-10-03T17:18:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/03/el-tarot-tha-rot/
 title: El tarot t&#039;ha rot
@@ -16,7 +16,7 @@ Mai he cregut en les coses que no tenen una explicació científica, però...
 
 ...de cop una preocupació infundada fa que se'm tirin les cartes del tarot sobre la taula. Amb escepticisme, accedeixo perquè no hi tinc res a perdre. Passi el que passi, no crec que canviï res del que opino sobre aquelles cartes.
 
-![](/wp-content/uploads/2024/10/10000475714120980386525938169.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/10000475714120980386525938169.jpg?w=1024)
 
 De manera que després de barrejar-les surten les que veieu en la imatge en aquest ordre. Primer l'emperador, segon el boig i tercer i últim, el diable.
 

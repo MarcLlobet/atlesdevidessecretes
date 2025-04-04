@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000045286765713242149984224"
-  image: /wp-content/uploads/2024/09/1000045286765713242149984224.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/09/1000045286765713242149984224.jpg
 date: "2024-09-11T05:01:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/11/voltes-per-cartagena/
 title: Voltes per Cartagena
@@ -51,4 +51,4 @@ Me la jugo, ja posats, i vaig al ministeri de Cultura. Em fan esperar, fins que 
 
 El fil s'acaba aquí. Si em contacten, el ministeri de cultura m'haurà d'explicar què vol dir cultura per ells.
 
-![](/wp-content/uploads/2024/09/1000045286765713242149984224.jpg)
+![](/atlesdevidessecretes/wp-content/uploads/2024/09/1000045286765713242149984224.jpg)

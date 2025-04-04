@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG-20241209-WA0002
-  image: /wp-content/uploads/2024/12/img-20241209-wa0002.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img-20241209-wa0002.jpg
 date: "2024-12-17T18:43:45+00:00"
 draft: "true"
 guid: https://atlesdevidessecretes.wordpress.com/?p=380

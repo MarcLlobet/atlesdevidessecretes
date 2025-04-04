@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1731255741377359-0
-  image: /wp-content/uploads/2024/11/1731255741377359-0.webp
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1731255741377359-0.webp
 date: "2024-11-12T18:09:06+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=275
 title: Objectiu lent

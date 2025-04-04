@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: image
-  image: /wp-content/uploads/2024/10/image-3.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/image-3.jpg
 date: "2024-10-18T04:32:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/18/fes-me-un-cafeto/
 title: Fes-me un cafetó
@@ -15,7 +15,7 @@ Segona part de la cata. Si, hi ha més.
 
 Si vull un cafè, i vull que me'l facis, com me'l serviries?
 
-![](/wp-content/uploads/2024/10/image-3.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-3.jpg?w=1024)
 
 No n'estàs segur? T'ho explicaré perquè vegis que he estat atent.
 

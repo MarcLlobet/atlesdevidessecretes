@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241019_231330
-  image: /wp-content/uploads/2024/11/img_20241019_231330.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241019_231330.jpg
 date: "2024-10-20T04:15:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/20/catador-certificat/
 title: Catador certificat

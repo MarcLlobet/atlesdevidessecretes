@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20250122_130228
-  image: /wp-content/uploads/2025/01/img_20250122_130228.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img_20250122_130228.jpg
 date: "2025-01-22T16:56:21+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=430
 title: Riu salomònic

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1728801688336909-0
-  image: /wp-content/uploads/2024/10/1728801688336909-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/1728801688336909-0.jpg
 date: "2024-10-13T06:41:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/13/salon-malaga-al-libano/
 title: Salón Málaga, al Líbano

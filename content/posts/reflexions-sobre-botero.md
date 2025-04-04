@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1727738767905871-0
-  image: /wp-content/uploads/2024/09/1727738767905871-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/09/1727738767905871-0.jpg
 date: "2024-09-30T23:26:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/30/reflexions-sobre-botero/
 title: Reflexions sobre Botero

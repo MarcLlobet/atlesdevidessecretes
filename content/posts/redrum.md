@@ -4,14 +4,14 @@ category:
   - uncategorized
 cover:
   alt: resplandor-1949827
-  image: /wp-content/uploads/2024/11/resplandor-1949827.webp
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/resplandor-1949827.webp
 date: "2024-11-12T18:13:22+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=279
 title: Redrum
 url: /2024/11/12/redrum/
 
 ---
-![](/wp-content/uploads/2024/11/resplandor-1949827.webp?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/resplandor-1949827.webp?w=1024)
 
 A la pel.lícula del resplendor, Jack Nickolson interpreta un escriptor que cuida d'un hotel durant el període de temporada baixa. La neu aïlla aquell lloc i desengela aquell racó tant agradable.
 

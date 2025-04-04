@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG-20241128-WA0001
-  image: /wp-content/uploads/2024/12/img-20241128-wa0001.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img-20241128-wa0001.jpg
 date: "2024-11-30T23:29:53+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=352
 title: Nikon esas

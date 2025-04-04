@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000050791"
-  image: /wp-content/uploads/2024/11/1000050791.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1000050791.jpg
 date: "2024-10-31T23:18:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/31/amor-en-temps-de-guerra/
 title: Amor en temps de guerra
@@ -25,7 +25,7 @@ També dir que si llegeixes algun dels articles que he redactat, crec que desmen
 
 Com comento al post de 'Isotip del bloc', el títol està inspirat en la pelicula de " _The new world_", un grandíssim clàssic que potser no és conegut per tothom.
 
-![](/wp-content/uploads/2024/10/image.jpg?w=599)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image.jpg?w=599)
 
 Aviso. Faré algun spòiler, perquè sinó no puc explicar-me.
 

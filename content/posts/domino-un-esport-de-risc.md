@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000045538738273113143115149"
-  image: /wp-content/uploads/2024/09/1000045538738273113143115149.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/09/1000045538738273113143115149.jpg
 date: "2024-09-14T21:06:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/14/domino-un-esport-de-risc/
 title: Dòmino, un esport de risc
@@ -19,4 +19,4 @@ Un senyor que acaba d'arribar defensa com un li deu diners a l'altre. I jo, que 
 
 Hi ha tensió i enrabiades. Porto poc temps obseevant, però vaig adonantme com tothom deu diners a tothom. Deu ser per això que les fitxes treuen foc cada cop que esclaten contra la taula.
 
-![](/wp-content/uploads/2024/09/1000045538738273113143115149.jpg)
+![](/atlesdevidessecretes/wp-content/uploads/2024/09/1000045538738273113143115149.jpg)

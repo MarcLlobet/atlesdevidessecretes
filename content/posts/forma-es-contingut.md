@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: oplus_0
-  image: /wp-content/uploads/2024/10/unnamed.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/unnamed.jpg
 date: "2024-10-11T21:54:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/11/forma-es-contingut/
 title: Forma és contingut

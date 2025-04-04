@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241108_175635
-  image: /wp-content/uploads/2024/11/img_20241108_175635.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241108_175635.jpg
 date: "2024-11-08T23:22:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/08/lou-dret/
 title: L&#039;ou dret

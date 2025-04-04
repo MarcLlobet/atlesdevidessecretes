@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241126082615
-  image: /wp-content/uploads/2024/11/img20241126082615.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241126082615.jpg
 date: "2024-11-26T13:35:19+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=336
 title: Ushu-Guaya
@@ -69,7 +69,7 @@ El meu cap diu que no hi cabrà perquè allò és diminut, mentre no pari d'anar
 
 > La motxilla hi cap. Simplement que em porta temps ficar-la. Pensa que és flexible. A més, ja l'he ficat un munt de vegades a espais com aquests. Sé que sembla gran, però això és pot tornar d'un tamany més petit que el d'una maleta... (Etc, Etc)
 
-![](/wp-content/uploads/2024/11/img20241121192758892211094562457253.jpg?w=768)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img20241121192758892211094562457253.jpg?w=768)
 
 Fico l'enginy i l'astúcia en una maleta que es comprimeix com un karateka-contorsionista. Però no m'hi caben, així que trec l'enginy, l'astúcia i alguna cosa més, per entaforar-la en aquell forat. Fins que, més o menys, ho aconsegueixo.
 

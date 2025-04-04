@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000048202"
-  image: /wp-content/uploads/2024/11/1000048202.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1000048202.jpg
 date: "2024-10-14T02:33:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/14/estancia-a-bogota/
 title: Estància a Bogotà

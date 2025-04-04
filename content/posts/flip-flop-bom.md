@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20250114_224447
-  image: /wp-content/uploads/2025/01/img_20250114_224447.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img_20250114_224447.jpg
 date: "2025-01-17T02:53:56+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2025/01/16/flip-flop-bom/
 title: Flip flop bom

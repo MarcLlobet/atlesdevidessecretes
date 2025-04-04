@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1728100010482660-0
-  image: /wp-content/uploads/2024/10/1728100010482660-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/1728100010482660-0.jpg
 date: "2024-10-05T03:39:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/05/indecencia-tipografica/
 title: Indecència tipogràfica

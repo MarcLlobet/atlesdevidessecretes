@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20250317_133822
-  image: /wp-content/uploads/2025/03/img_20250317_133822.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/03/img_20250317_133822.jpg
 date: "2025-03-18T21:40:52+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2025/03/18/operacio-retorn/
 title: Operació retorn

@@ -15,7 +15,7 @@ url: /2024/09/27/graffiti/
 
 Li faig cas i em presento a un passeig grupal per veure els graffitis i entendre quin impacte té als barris desfavorables. L'Andrea i jo estem sota el seu paraigües esperant si algú més vol veure pintades a les parets sota la pluja intensa que pot oferir la ciutat. Sembla que la pluja no pararà i li dic que a mi m'està bé qualsevol opció, deixar-ho per un altre dia o que em faci un tour personalitzat. En veu baixa auguro que ningú vindrà a una passejada sota el xàfec que estava caient. Crec que ella veu la meva flexibilitat, així que em diu de fer un cafè parlant de Bogotà i l'art urbà.
 
-![](/wp-content/uploads/2024/09/image.jpg?w=1024)oplus\_33
+![](/atlesdevidessecretes/wp-content/uploads/2024/09/image.jpg?w=1024)oplus\_33
 
 Com que no hi ha ningú més que ens escolti, li comento el meu escepticisme sobre la pintura i si realment té conseqüències positives.
 

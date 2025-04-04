@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241125214110
-  image: /wp-content/uploads/2024/11/img20241125214110.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241125214110.jpg
 date: "2024-11-26T20:38:17+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=345
 title: Punt de fuga

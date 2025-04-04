@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241230164012
-  image: /wp-content/uploads/2024/12/img20241230164012.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img20241230164012.jpg
 date: "2024-12-30T21:17:53+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/12/30/bodegues-lopez/
 title: Bodegues López
@@ -15,7 +15,7 @@ Mendoza, terra de vins. Una de les bodegues de més renom són les bodegues Lóp
 
 He fet la ruta turística veient el museu amb eines antigues, les bodegues, antigues i modernes, amb una degustació final.
 
-![](/wp-content/uploads/2024/12/img202412301342278475064127842377979.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/12/img202412301342278475064127842377979.jpg?w=1024)
 
 Les meves preguntes són de pura curiositat. Vull entendre com un lloc que té més de cent anys, ha triomfat tant i perquè.
 

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: pere-quart-e1635099960746
-  image: /wp-content/uploads/2025/03/pere-quart-e1635099960746.jpeg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/03/pere-quart-e1635099960746.jpeg
 date: "2025-03-19T23:26:20+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=571
 title: Com el Vallès, no hi ha res

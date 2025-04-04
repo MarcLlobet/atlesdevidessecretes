@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20250221_190449
-  image: /wp-content/uploads/2025/02/img_20250221_190449-1.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/02/img_20250221_190449-1.jpg
 date: "2025-02-22T14:17:36+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=529
 title: Ovni bus
@@ -35,11 +35,11 @@ El pobre home crec que se n'adona. Veig com amaga el seu braç i s'inclina cap a
 
 Ja preveia que no hi hauria connexió, així que he contactat la companyia d'autobus i, previ al viatge, els hi he comentat que necessitava wifi durant el viatge.
 
-![](/wp-content/uploads/2025/02/img_20250222_0908133542782568059833533.jpg?w=516)
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img_20250222_0908133542782568059833533.jpg?w=516)
 
 He de reconèixer que tenien raó. Aquest autobus té wifi. Crec que és l'únic al món. El que no té és internet. Tècnicament no han mentit.
 
-![](/wp-content/uploads/2025/02/img_20250221_1904498149095136188270173.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img_20250221_1904498149095136188270173.jpg?w=1024)
 
 Si faig el que tinc planejat, hauré recorregut gairebé tota la costa brasilenya amb òmnibus, com li diuen aqui.
 

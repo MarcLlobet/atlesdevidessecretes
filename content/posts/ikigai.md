@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241105_214401
-  image: /wp-content/uploads/2024/11/img_20241105_214401.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241105_214401.jpg
 date: "2024-11-06T04:59:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/06/ikigai/
 title: Ikigai
@@ -13,7 +13,7 @@ url: /2024/11/05/ikigai/
 ---
 Ikigai és el marc de pensament per trobar la teva raó de ser. És un concepte japonès que et fa reflexionar sobre el que t'agrada, el que el món necessita, a què et pots dedicar i què se't dona bé.
 
-![](/wp-content/uploads/2024/11/image.png?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/image.png?w=1024)
 
 Aquests quatre eixos marquen el teu Ikigai. Així doncs, em disposo a fer-lo i llisto el que crec en cada apartat:
 

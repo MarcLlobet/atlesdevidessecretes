@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241107_174021
-  image: /wp-content/uploads/2024/11/img_20241107_174021.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241107_174021.jpg
 date: "2024-11-08T02:03:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/08/cotopaxi/
 title: Cotopaxi

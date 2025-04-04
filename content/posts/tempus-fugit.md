@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250116135537
-  image: /wp-content/uploads/2025/01/img20250116135537.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img20250116135537.jpg
 date: "2025-02-13T03:35:55+00:00"
 draft: "true"
 guid: https://atlesdevidessecretes.wordpress.com/?p=401

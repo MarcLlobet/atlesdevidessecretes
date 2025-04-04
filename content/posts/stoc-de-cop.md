@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241021_181436
-  image: /wp-content/uploads/2024/11/img_20241021_181436.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241021_181436.jpg
 date: "2024-10-21T23:27:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/21/stoc-de-cop/
 title: Stoc de cop
@@ -17,7 +17,7 @@ Arribo a Cali i em pregunten si vinc per la COP, la conferència sobre biodivers
 
 És el meu primer dia a Cali i ja sóc dins d'una conferència on tothom sembla ser algú preparat per afrontar els canvis del futur. Després de veure que la gent està molt conciensiada i les meva opinió més elaborada queda pobre al costat del pitjor dels seus arguments, només em queda passar al rol d'oient i fer-me passar per fotògraf.
 
-![](/wp-content/uploads/2024/10/image-2.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-2.jpg?w=1024)
 
 Estic envoltat de representats d'entitats de diferents països per trobar acords per presentar al manifest de la COP. N'ha de sortir alguns acords que acabaràn com a propostes a l'ONU.
 
@@ -27,7 +27,7 @@ Estic sota un sostre que reuneix moltes vestimentes, indumentàries i maneres d'
 
 Conec a força gent i les seves causes. Una d'elles em crida l'atenció. És la de'n Hans. En Hans és xilè i m'explica que fa un any va intentar portar noranta-dos noves regulacions al congrés.
 
-![](/wp-content/uploads/2024/10/image-1.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-1.jpg?w=1024)
 
 Ell defensa que part de la riquesa Xilena prové de la part oceànica. Parla d'un nou concepte que no és el territori sinó el maritori.
 

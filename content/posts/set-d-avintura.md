@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG-20250310-WA0010
-  image: /wp-content/uploads/2025/03/img-20250310-wa0010.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/03/img-20250310-wa0010.jpg
 date: "2025-03-11T00:40:51+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2025/03/10/avintura/
 title: Set d'avintura

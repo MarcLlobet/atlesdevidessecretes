@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241204_114658
-  image: /wp-content/uploads/2024/12/img_20241204_114658.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img_20241204_114658.jpg
 date: "2024-12-04T15:07:27+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=373
 title: EBlangeli
@@ -19,9 +19,9 @@ Em sembla un bon símbol de maduresa tractar un tema entre bromes i que ningú s
 
 El senyor Maxi, un exemple de reflexió profunda per buscar el camí recte. La senyora Dai, la passió per la serenitat i la defensa dels ideals propis. La senyora Karen, el rebuig conscient als infortunis i pecats que ens rodegen. Finalment també, la senyora Ceci, una dona menys creient, menys estricte, més flexible, però filla de la idea d'un creador.
 
-![](/wp-content/uploads/2024/12/img202412040903396276941148305056840.jpg?w=1024)Dai o Daiana, a la cuina.
+![](/atlesdevidessecretes/wp-content/uploads/2024/12/img202412040903396276941148305056840.jpg?w=1024)Dai o Daiana, a la cuina.
 
-![](/wp-content/uploads/2024/12/img202412040858066876640334917734806.jpg?w=1024)Karen, estenent llençols.![](/wp-content/uploads/2024/12/img202412031512483002639832322128131.jpg?w=1024)Ceci o Cecília, a la recepció.
+![](/atlesdevidessecretes/wp-content/uploads/2024/12/img202412040858066876640334917734806.jpg?w=1024)Karen, estenent llençols.![](/atlesdevidessecretes/wp-content/uploads/2024/12/img202412031512483002639832322128131.jpg?w=1024)Ceci o Cecília, a la recepció.
 
 Compartir opinions amb fidels servents sempre és un plaer. No hi ha res com una posició marcada per poder discutir amb condicions.
 
@@ -37,4 +37,4 @@ L'existència. La pregunta més humana de fer-se, sense resposta.
 
 El tema que fa crear religions, fa que tothom es posicioni, fa que el comportament canviï, que convenientment, hi hagi un ordre, una moralitat arrelada a totes les accions. Tot i modificar-se en funció del lloc, es tracten els mateixos temes existencials que tots ens preguntem. Malgrat diferències de forma, el contingut respòn als misteris que ens perseguiran, probablement per sempre.
 
-![](/wp-content/uploads/2024/12/img_20241204_1146582002454158510366111.jpg?w=1024)El dibuix que regalo a l'hostal
+![](/atlesdevidessecretes/wp-content/uploads/2024/12/img_20241204_1146582002454158510366111.jpg?w=1024)El dibuix que regalo a l'hostal

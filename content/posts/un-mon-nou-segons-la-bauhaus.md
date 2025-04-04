@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000049701"
-  image: /wp-content/uploads/2024/11/1000049701.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1000049701.jpg
 date: "2024-10-30T01:07:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/30/un-mon-nou-segons-la-bauhaus/
 title: Un món nou, segons la Bauhaus

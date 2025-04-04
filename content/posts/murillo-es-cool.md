@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000048762"
-  image: /wp-content/uploads/2024/11/1000048762.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1000048762.jpg
 date: "2024-10-15T02:39:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/15/murillo-es-cool/
 title: Murillo és cool
@@ -27,7 +27,7 @@ Vaig a veure la resta del poblet, que no és gaire gran, passo pel carrer més c
 
 El que fa especial a aquell poblet són les parets de les cases, de _tabla parada_, osigui, fusta del dret, i de colors ben vius.
 
-![](/wp-content/uploads/2024/10/image-10.jpg?w=1024)![](/wp-content/uploads/2024/10/image-11.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-10.jpg?w=1024)![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-11.jpg?w=1024)
 
 A un parell de carrers s'acaba el poble amb una carretera que sembla que s'envà cap al següent poble. Hi ha algunes cases, i en una d'elles, veig una senyora gran jugant a una espècie de bitlles local.
 

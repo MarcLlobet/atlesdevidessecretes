@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: still_0_3_1360x765
-  image: /wp-content/uploads/2025/03/still_0_3_1360x765.webp
+  image: /atlesdevidessecretes/wp-content/uploads/2025/03/still_0_3_1360x765.webp
 date: "2025-03-19T23:13:22+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2025/03/19/cinema-paradiso/
 title: Cinema paradiso

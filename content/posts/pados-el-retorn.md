@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241117_134552
-  image: /wp-content/uploads/2024/11/img_20241117_134552.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241117_134552.jpg
 date: "2024-11-17T18:46:07+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=299
 title: Pados, el retorn
@@ -13,7 +13,7 @@ url: /2024/11/17/pados-el-retorn/
 ---
 I així, de casualitat, em trobo a en Pau. El mateix que vam coincidir a Colòmbia ara fa tres mesos.
 
-![](/wp-content/uploads/2024/11/img_20241117_1345523082182048429941829.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img_20241117_1345523082182048429941829.jpg?w=1024)
 
 Ha conegut una ecuatoriana i està viatjant amb ella i la seva família.
 

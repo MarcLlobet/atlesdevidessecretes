@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 03.5.224.571
-  image: /wp-content/uploads/2024/09/03.5.224.571.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/09/03.5.224.571.jpg
 date: "2024-09-25T01:58:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/25/roberto-athayde/
 title: Roberto Athayde

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241221014718
-  image: /wp-content/uploads/2025/01/img20241221014718.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img20241221014718.jpg
 date: "2025-01-13T00:56:18+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=388
 title: Festard
@@ -33,10 +33,10 @@ Passo dins d'un lloc fosc amb llums de color vermell i gent que viu els colors d
 
 El punxadiscs té una decoració de cadenes darrere. Passa una estona i un noi salta sobre la part de cadenes i una performance comença sincronitzada amb la música.
 
-![](/wp-content/uploads/2024/12/img20241221012822494668665736262614.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/12/img20241221012822494668665736262614.jpg?w=1024)
 
 La música progressa al llarg de la nit de techno portat per un senyor amb faldilla; a techno més dur, més alemany, i més seriós, per un tiu amb gorra; passant per techno trance molt fosc, de la mà d'un noi que ensenya el melic. Quan la música comença a sonar a problemes mentals, és quan més m'agrada, i aquell músic tenia tots els requisits. El canvi el fa un home alt i fort, de vestit ben cenyit cap a hardcore, estil _Angerfirst_. En sortir el sol, la sessió torna a techno més suau, a mans d'una dona amb una espècie de microbikini que li tapa lo just i necessari per dir-se bikini.
 
-![](/wp-content/uploads/2024/12/img202412210651412889895264655694532.jpg?w=1024)![](/wp-content/uploads/2024/12/img202412210147207631858846327000907.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/12/img202412210651412889895264655694532.jpg?w=1024)![](/atlesdevidessecretes/wp-content/uploads/2024/12/img202412210147207631858846327000907.jpg?w=1024)
 
 Ha sigut una nit de música molt bona i molt divertida però aniria tocant tornar, s'ha fet de dia, jo me'n vaig, tot i que ells seguiran dos dies més.

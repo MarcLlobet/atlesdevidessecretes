@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250223192205
-  image: /wp-content/uploads/2025/03/img20250223192205.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/03/img20250223192205.jpg
 date: "2025-03-02T18:39:44+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=544
 title: Carn aval

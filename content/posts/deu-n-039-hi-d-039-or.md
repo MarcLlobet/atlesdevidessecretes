@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1727562522243229-0
-  image: /wp-content/uploads/2024/09/1727562522243229-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/09/1727562522243229-0.jpg
 date: "2024-09-28T22:15:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/28/deu-nhi-dor/
 title: Déu n&#039;hi d&#039;or

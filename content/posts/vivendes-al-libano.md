@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1728705788885534-0
-  image: /wp-content/uploads/2024/10/1728705788885534-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/1728705788885534-0.jpg
 date: "2024-10-12T04:03:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/12/vivendes-al-libano/
 title: Vivendes al Líbano

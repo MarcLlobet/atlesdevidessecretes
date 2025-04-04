@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241029202657
-  image: /wp-content/uploads/2024/11/img20241029202657.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241029202657.jpg
 date: "2024-10-30T01:28:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/30/intercanvi-al-viajero/
 title: Intercanvi al viajero

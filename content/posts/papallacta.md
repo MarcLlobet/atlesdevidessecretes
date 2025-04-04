@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241118121342
-  image: /wp-content/uploads/2024/11/img20241118121342.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241118121342.jpg
 date: "2024-11-19T12:33:15+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/19/papallacta/
 title: Papallacta
@@ -13,7 +13,7 @@ url: /2024/11/19/papallacta/
 ---
 Un dia complicat. Ple de decisions difícils. Aigua calenta o una mica més calenta? No sabeu com de complicat es fa.
 
-![](/wp-content/uploads/2024/11/img202411181213424988241441539945302.jpg?w=1024)Una de les fonts d'aigües termals
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img202411181213424988241441539945302.jpg?w=1024)Una de les fonts d'aigües termals
 
 Les aigües termals de Papallacta són un espai perfecte per fer un descans rodejat de muntanyes fredes.
 
@@ -23,7 +23,7 @@ Un autobús de dues hores que em va deixar amb la pelicula de Mad Max a mitges. 
 
 Papallacta és un poblet petit, que quan te n'adones ja te l'has passat de llarg. Una mica més amunt s'arriba a uns banys termals.
 
-![](/wp-content/uploads/2024/11/img202411181513397159930816852499279.jpg?w=1024)Vida a Papallacta
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img202411181513397159930816852499279.jpg?w=1024)Vida a Papallacta
 
 Trobo un hostal senzillet i dormo en un llit amb quatre mantes totalment necessàries.
 

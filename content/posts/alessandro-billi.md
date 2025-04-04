@@ -4,14 +4,14 @@ category:
   - uncategorized
 cover:
   alt: IMG20241125214525
-  image: /wp-content/uploads/2024/11/img20241125214525.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241125214525.jpg
 date: "2024-11-26T16:06:29+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=335
 title: Alessandro Billi
 url: /2024/11/26/alessandro-billi/
 
 ---
-![](/wp-content/uploads/2024/11/img202411252145252419075962303858573.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img202411252145252419075962303858573.jpg?w=1024)
 
 És casualitat que la mateixa persona que amablement em va deixar passar a la cua de l'avió cap a Ushuaia, sigui la mateixa que em trobi a l'hostal on em quedo?
 

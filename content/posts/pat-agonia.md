@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241201133239
-  image: /wp-content/uploads/2024/12/img20241201133239.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img20241201133239.jpg
 date: "2024-12-02T23:08:01+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=360
 title: Pat agonia

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241116_170227
-  image: /wp-content/uploads/2024/11/img_20241116_170227.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241116_170227.jpg
 date: "2024-11-16T22:10:49+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=293
 title: Yumbos
@@ -25,7 +25,7 @@ El cacau és una fruita gran, pot arribar a ser com una papaia. Dins s'hi troben
 
 El procés consisteix en recollir, obrir la fruita, treure les llavors, deixar-les fermentar, assecar, torrar, separar closca del nib del cacau, moldre, i refinar.
 
-![](/wp-content/uploads/2024/11/img_20241116_170606862186605536865560.jpg?w=1024)En Jonathan, explicant què és el cacau, mentre miro les mostres de xocolata pensant quan podré provar-les
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img_20241116_170606862186605536865560.jpg?w=1024)En Jonathan, explicant què és el cacau, mentre miro les mostres de xocolata pensant quan podré provar-les
 
 Deixeu-me que ho expliqui tant bé com en Jonathan m'ho ha explicat a mi:
 
@@ -44,7 +44,7 @@ Els altres productes són variants als quals se'ls hi afegeix sucre i sabors.
 
 * * *
 
-![](/wp-content/uploads/2024/11/img_20241116_1626557926177252872489947.jpg?w=1024)Brownie amb xarop de cacau i xocolata de cacau 100%
+![](/atlesdevidessecretes/wp-content/uploads/2024/11/img_20241116_1626557926177252872489947.jpg?w=1024)Brownie amb xarop de cacau i xocolata de cacau 100%
 
 Si Colòmbia té el millor cafè; Ecuador té el millor cacau. El que estic provant és la varietat "fino de aroma". Que és és el millor en qualitat.
 

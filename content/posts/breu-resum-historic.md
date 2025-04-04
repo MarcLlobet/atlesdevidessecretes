@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1728104279541792-0
-  image: /wp-content/uploads/2024/10/1728104279541792-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/1728104279541792-0.jpg
 date: "2024-10-04T21:45:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/04/breu-resum-historic/
 title: Breu resum històric

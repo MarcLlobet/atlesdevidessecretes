@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241209194406
-  image: /wp-content/uploads/2024/12/img20241209194406.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img20241209194406.jpg
 date: "2024-12-10T04:32:54+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=377
 title: Carpe diem

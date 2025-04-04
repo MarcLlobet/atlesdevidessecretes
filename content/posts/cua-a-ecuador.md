@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241028203634
-  image: /wp-content/uploads/2024/11/img20241028203634.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241028203634.jpg
 date: "2024-10-29T13:28:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/29/cua-a-ecuador/
 title: Cua a Ecuador

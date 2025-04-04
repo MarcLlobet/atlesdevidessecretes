@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: 1729547215275443-0
-  image: /wp-content/uploads/2024/10/1729547215275443-0.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/1729547215275443-0.jpg
 date: "2024-10-21T21:46:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/21/la-massacre-del-cautxo/
 title: La massacre del cautxo

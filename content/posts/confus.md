@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: "1000053362"
-  image: /wp-content/uploads/2024/11/1000053362.png
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/1000053362.png
 date: "2024-11-22T17:32:33+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/11/22/confus/
 title: ConFus

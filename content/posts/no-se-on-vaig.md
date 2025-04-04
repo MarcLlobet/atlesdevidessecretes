@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: screenshot_2024-11-12-12-29-39-64_99c04817c0de5652397fc8b56c3b38178673057232485461515
-  image: /wp-content/uploads/2024/09/screenshot_2024-11-12-12-29-39-64_99c04817c0de5652397fc8b56c3b38178673057232485461515.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/09/screenshot_2024-11-12-12-29-39-64_99c04817c0de5652397fc8b56c3b38178673057232485461515.jpg
 date: "2024-09-09T23:15:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/09/no-se-on-vaig/
 title: No sé on vaig
@@ -45,4 +45,4 @@ Amb molt poc, estàs dient molt, i riem perquè ens sentim realment interpelats.
 
 A tothom que vulgui saber on vaig, la meva resposta és, a trobar el pà amb tomàquet de cada racó. I no, per mi això no és menys que saber les quatre dades que pots trobar a _google o_ a la revista _lonely planet_. És més i millor.
 
-![](/wp-content/uploads/2024/09/screenshot_2024-11-12-12-29-39-64_99c04817c0de5652397fc8b56c3b38178673057232485461515.jpg)
+![](/atlesdevidessecretes/wp-content/uploads/2024/09/screenshot_2024-11-12-12-29-39-64_99c04817c0de5652397fc8b56c3b38178673057232485461515.jpg)

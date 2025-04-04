@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20250312_022223
-  image: /wp-content/uploads/2025/03/img_20250312_022223.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/03/img_20250312_022223.jpg
 date: "2025-03-12T05:16:16+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=556
 title: Faula de l'aula

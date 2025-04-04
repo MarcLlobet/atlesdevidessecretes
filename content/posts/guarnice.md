@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250210114658
-  image: /wp-content/uploads/2025/02/img20250210114658.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/02/img20250210114658.jpg
 date: "2025-02-10T22:59:34+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=474
 title: Guarnicê
@@ -19,7 +19,7 @@ Festes tant esperades com el carnaval, arreu del Brasil, tenen una gran dosis de
 
 La coincidència fa que em trobi a la capital de l'estat de Maranhão, a São Luís. Una ciutat acolorida per parets de rajoles. Carrers sinuosos de llambordes que, molles de la pluja, brillen reflectant la llum.
 
-![](/wp-content/uploads/2025/02/img202502091909434827996989889839380.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/img202502091909434827996989889839380.jpg?w=1024)
 
 Les pujades i baixades ofereixen miradors a l'aigua que envolta aquest lloc ple de vida. Una vida que s'anima quan l'època de pre-carnaval arriba. I quan el _guarnicê_ està a flor de pell.
 
@@ -31,7 +31,7 @@ Bé, em semblava interessant sortir de la zona de comfort. Per mi això és com 
 
 I no em refereixo a l'astre rei, sinó a la dóna que em recorda com fer cada tasca de la manera com no aconsegueixo fer. La senyora de fer feines, i també viatgera, la Sol.
 
-![](/wp-content/uploads/2025/02/10000633674878353995457192404.jpg?w=768)
+![](/atlesdevidessecretes/wp-content/uploads/2025/02/10000633674878353995457192404.jpg?w=768)
 
 Ella té tota l'experiència que jo no tinc, en cuidar d'un lloc. És una dona que vol fer les coses bé. Vol deixar les coses tal i com li agrada. Vol aplicar la norma de cuidar als altres tal i com a un mateix ens agradaria que ens cuidessin.
 

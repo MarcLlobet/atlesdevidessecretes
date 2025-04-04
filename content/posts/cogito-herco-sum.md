@@ -24,7 +24,7 @@ Xerrem sobre les virtuts d'aquell lloc i quedem tant amics. Em dóna una targeta
 
 Dit i fet, m'acosto al negoci a escoltar les seves conclusions. Ella no ho té clar encara, però m'ensenya tot el material i torno a lloar-li la seva colecció de nou. - "Tens una càmera, marca Herco, que consisteix només d'una caixa sense cap mecanisme. De fet, no té ni disparador. Per fer una foto, cal ficar-hi un paper fotosensible, i manualment, abaixar i apujar una palanca."
 
-![](/wp-content/uploads/2024/10/image-12.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-12.jpg?w=1024)
 
 Sembla que li fa gràcia que allò sigui possible. No sabia com funcionava i reconeix que hagués jurat que faltava alguna peça per ser complerta. Fem un reconeixement a les altres peces de col·lecció i concluïm que és un espai únic.
 

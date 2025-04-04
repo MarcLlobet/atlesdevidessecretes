@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241018100619
-  image: /wp-content/uploads/2024/11/img20241018100619.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241018100619.jpg
 date: "2024-10-18T17:32:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/18/revel-duna-rebel/
 title: Revel d&#039;una rebel

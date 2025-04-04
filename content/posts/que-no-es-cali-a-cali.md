@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241022_234655
-  image: /wp-content/uploads/2024/11/img_20241022_234655.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img_20241022_234655.jpg
 date: "2024-10-23T04:47:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/23/que-no-es-cali-a-cali/
 title: Que no es cali a Cali

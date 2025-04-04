@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: Captura de pantalla 2024-10-02 a la(s) 11.20.47 p.m.
-  image: /wp-content/uploads/2024/10/captura-de-pantalla-2024-10-02-a-las-11.20.47-p.m.png
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/captura-de-pantalla-2024-10-02-a-las-11.20.47-p.m.png
 date: "2024-10-03T15:11:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/03/isotip-del-bloc/
 title: Isotip del bloc

@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241124120439
-  image: /wp-content/uploads/2024/11/img20241124120439.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241124120439.jpg
 date: "2024-11-26T14:53:40+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=333
 title: Permeable

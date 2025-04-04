@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20241015091323
-  image: /wp-content/uploads/2024/11/img20241015091323.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img20241015091323.jpg
 date: "2024-10-17T03:19:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/17/cata-de-cafe/
 title: Cata de cafè
@@ -13,7 +13,7 @@ url: /2024/10/16/cata-de-cafe/
 ---
 Com es cata el cafè?
 
-![](/wp-content/uploads/2024/10/img202410150913234697565022865853633.jpg?w=1024)
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/img202410150913234697565022865853633.jpg?w=1024)
 
 Doncs no prens una tassa i dius si és més o menys bo, no. Hi ha una ciència al darrere. Tot un món, al igual que el vi.
 
@@ -21,7 +21,7 @@ Per catar un cafè cal començar molt més endarrere.
 
 1\. Has d'anar a la planta i seleccionar els grans madurs, el que tenen un color vermellós. Pots ajudar-te d'un refractròmetre per veure la quantitat de sucre que té, i així triar els millors grans.
 
-![](/wp-content/uploads/2024/10/image-6.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-6.jpg?w=1024)oplus\_0
 
 2\. Assequem aquests grans. Els deixem eixuts sobre una malla que permetrà que s'assequin per dalt i per baix.
 
@@ -41,7 +41,7 @@ Per catar un cafè cal començar molt més endarrere.
 
 Ja poden fer la cata. Què valorarem? Doncs bé, seguidament us donc els paràmetres per analitzar un cafè. Però abans tenir en compte que valorarem cada mètrica del 6 al 10, sent 6 bo, 7 molt bo, 8 excel·lent, 9 excepcional, el 10 apoteòsic (no es fica mai un 10).
 
-![](/wp-content/uploads/2024/10/image-4.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-4.jpg?w=1024)oplus\_0
 
 1\. L'olor del cafè. Per saber-ne l'olor cal fer dues coses. Valorarem l'aroma i la fragància, amb puntuacions de ±2.
 
@@ -81,11 +81,11 @@ Valorarem també cada component per separat.
 
 Sumem aquestes 10 mètriques, i tindrem el puntatge total.
 
-![](/wp-content/uploads/2024/10/image-5.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-5.jpg?w=1024)oplus\_0
 
 Per justificar aquestes notes, no només aplicarem aquest números, sinó que ho acompanyarem de notes qualitatives respecte als sabors que notem. Hi ha una roda de sabors molt complerta i estandaritzada, però la idea és que apuntis el que notis - vainilla, galeta, notes florals, ... per exemple.
 
-![](/wp-content/uploads/2024/10/image-5-1.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-5-1.jpg?w=1024)oplus\_0
 
 El número final ens dirà com de bo és el cafè, o malauradament, com de dolents som com a catadors de cafè. És veritat, si la teva nota destaca molt de la resta de catadors, la teva reputació anirà a parar al vol per escupi-hi.
 

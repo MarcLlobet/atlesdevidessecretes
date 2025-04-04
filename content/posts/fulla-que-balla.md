@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG-20230403-WA0007
-  image: /wp-content/uploads/2024/11/img-20230403-wa0007.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/11/img-20230403-wa0007.jpg
 date: "2024-10-16T23:13:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/16/fulla-que-balla/
 title: Fulla que balla

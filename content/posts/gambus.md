@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20241202_220013
-  image: /wp-content/uploads/2024/12/img_20241202_220013.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2024/12/img_20241202_220013.jpg
 date: "2024-12-03T01:04:21+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=362
 title: Gambús

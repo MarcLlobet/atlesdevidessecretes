@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG20250107142210
-  image: /wp-content/uploads/2025/01/img20250107142210.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img20250107142210.jpg
 date: "2025-01-09T16:03:21+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=403
 title: Post Valparaíso

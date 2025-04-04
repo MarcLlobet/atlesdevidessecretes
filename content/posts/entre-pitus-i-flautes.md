@@ -4,7 +4,7 @@ category:
   - uncategorized
 cover:
   alt: IMG_20250107_183548
-  image: /wp-content/uploads/2025/01/img_20250107_183548.jpg
+  image: /atlesdevidessecretes/wp-content/uploads/2025/01/img_20250107_183548.jpg
 date: "2025-01-09T18:52:38+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/?p=402
 title: Entre pitus i flautes
