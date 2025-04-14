@@ -6,13 +6,15 @@ date: "2024-10-11T21:56:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/11/yira-morante/
 title: Yira Morante
 url: /2024/10/11/yira-morante/
+cover:
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/image-13.jpg?w=1024
 
 ---
 Si m'haguéssiu preguntat quant de temps havia d'estar a Bogotà, hagués respòs tres o quatre dies.
 
 Gairebé tres setmanes més tard, surto de la ciutat camí cap a la regió de Tolima. Acompanyo la que ha sigut la meva hosta durant aquest temps.
 
-![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-13.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-13.jpg?w=1024)
 
 La senyoreta Yira és l'advocada encarregada de solventar els entrebancs burocràtics per entregar projectes de vivenda a diferents punts de la nació.
 

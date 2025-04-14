@@ -6,9 +6,11 @@ date: "2024-09-27T17:10:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/09/27/graffiti/
 title: Graffiti
 url: /2024/09/27/graffiti/
+cover:
+  image: /wp-content/uploads/2024/09/1727651960956769-0.webp
 
 ---
-![](https://blogger.googleusercontent.com/img/a/AVvXsEiO2uMVs3S3OKnpUBYGP49MnsMtKwrhjW6Hkj-1qdTc-ap4L2EjQgMqhiLAFU7nMc6UEFbX2XqhrruWpG-7aIG6uCrbuD2N6yXAwakloevBgg33ORoe_WtN9FhP6cpMxmo1PTfnYWs-EhsfSb02jk2JKmboH7gVYB5aagMGRdZQ2-MMb4Ft6ovC8j_crllv=rw)
+![](/wp-content/uploads/2024/09/1727651960956769-0.webp)
 
 [  
 ](https://blogger.googleusercontent.com/img/a/AVvXsEiO2uMVs3S3OKnpUBYGP49MnsMtKwrhjW6Hkj-1qdTc-ap4L2EjQgMqhiLAFU7nMc6UEFbX2XqhrruWpG-7aIG6uCrbuD2N6yXAwakloevBgg33ORoe_WtN9FhP6cpMxmo1PTfnYWs-EhsfSb02jk2JKmboH7gVYB5aagMGRdZQ2-MMb4Ft6ovC8j_crllv) Passegem amb la Juliana per Bogotà i ens explica la història, quins són els edificis importants, com creix la ciutat i come s diferencien els barris. La ciutat té experiència en el narcotràfic, la prostitució, les bandes armades, altercats, tensió política, etc. Una de les seves recomanacions és explorar els graffitis amb algú entès en el tema.

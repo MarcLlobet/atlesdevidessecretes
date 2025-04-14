@@ -1,7 +1,7 @@
 baseURL: https://marcllobet.github.io/atlesdevidessecretes/
 languageCode: ca
 title: Atles de vides secretes
-theme: PaperMod
+theme: hugo-good-looking
 canonifyURLs: true
 taxonomies:
   category: category

@@ -21,7 +21,7 @@ Per catar un cafè cal començar molt més endarrere.
 
 1\. Has d'anar a la planta i seleccionar els grans madurs, el que tenen un color vermellós. Pots ajudar-te d'un refractròmetre per veure la quantitat de sucre que té, i així triar els millors grans.
 
-![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-6.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-6.jpg?w=1024)
 
 2\. Assequem aquests grans. Els deixem eixuts sobre una malla que permetrà que s'assequin per dalt i per baix.
 
@@ -41,7 +41,7 @@ Per catar un cafè cal començar molt més endarrere.
 
 Ja poden fer la cata. Què valorarem? Doncs bé, seguidament us donc els paràmetres per analitzar un cafè. Però abans tenir en compte que valorarem cada mètrica del 6 al 10, sent 6 bo, 7 molt bo, 8 excel·lent, 9 excepcional, el 10 apoteòsic (no es fica mai un 10).
 
-![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-4.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-4.jpg?w=1024)
 
 1\. L'olor del cafè. Per saber-ne l'olor cal fer dues coses. Valorarem l'aroma i la fragància, amb puntuacions de ±2.
 
@@ -81,11 +81,11 @@ Valorarem també cada component per separat.
 
 Sumem aquestes 10 mètriques, i tindrem el puntatge total.
 
-![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-5.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-5.jpg?w=1024)
 
 Per justificar aquestes notes, no només aplicarem aquest números, sinó que ho acompanyarem de notes qualitatives respecte als sabors que notem. Hi ha una roda de sabors molt complerta i estandaritzada, però la idea és que apuntis el que notis - vainilla, galeta, notes florals, ... per exemple.
 
-![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-5-1.jpg?w=1024)oplus\_0
+![](/atlesdevidessecretes/wp-content/uploads/2024/10/image-5-1.jpg?w=1024)
 
 El número final ens dirà com de bo és el cafè, o malauradament, com de dolents som com a catadors de cafè. És veritat, si la teva nota destaca molt de la resta de catadors, la teva reputació anirà a parar al vol per escupi-hi.
 

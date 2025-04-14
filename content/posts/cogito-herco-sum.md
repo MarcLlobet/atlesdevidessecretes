@@ -6,6 +6,8 @@ date: "2024-10-13T02:19:00+00:00"
 guid: https://atlesdevidessecretes.wordpress.com/2024/10/13/cogito-herco-sum/
 title: Cogito Herco sum
 url: /2024/10/13/cogito-herco-sum/
+cover:
+  image: /atlesdevidessecretes/wp-content/uploads/2024/10/image-12.jpg
 
 ---
 Passejant pel centre, tinc un budell buit i veig un restaurant que em fa el pes. Menjaré un pollastre, arròs i amanida fet a l'estil _paisa_. Un àpat típic de la zona que gaudeixo en un segon pis amb les finestres obertes. L'ambient és fresc però agradable. Mentre espero que em portin la comanda, em fixo en l'entorn i els elements decoratius. Aquell indret té autèntiques relíquies de coleccionista.
