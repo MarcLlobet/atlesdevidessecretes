@@ -68,8 +68,8 @@ jobs:
           git submodule add \
             -f \
             --depth=1 \
-            https://github.com/luizdepra/hugo-coder.git \
-            themes/hugo-coder
+            https://github.com/MarcLlobet/hugo-good-looking.git \
+            themes/hugo-good-looking
 
       - name: Build with Hugo
         run: |
